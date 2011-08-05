@@ -1,0 +1,33 @@
+COPYRIGHTS
+******************************************************************************
+
+
+ifresco PHP library
+-------
+Url:       http://www.ifresco.at/
+Copyright: Dominik Danninger, MAY Computer
+License:   GPL - see LICENSE file
+
+
+Alfresco WebService PHP Library
+-------
+Url:       http://www.alfresco.org/
+License:   GPL - http://www.gnu.org/licenses/gpl.html
+
+
+Krumo debug
+-------
+Url:       http://krumo.sourceforge.net/
+License:   LGPL - http://www.gnu.org/licenses/lgpl.html (or file in krumo/LICENSE)
+
+
+PEAR HTTP_REQUEST
+-------
+Url:       http://pear.php.net/package/HTTP_Request
+License:   BSD - http://www.opensource.org/licenses/bsd-license.php
+
+
+PEAR HTTP_REQUEST2
+-------
+Url:       http://pear.php.net/package/HTTP_Request2
+License:   BSD - http://www.opensource.org/licenses/bsd-license.php

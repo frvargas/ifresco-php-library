@@ -1,0 +1,12 @@
+- 0.1beta -> 0.2 
+-------------------------------------------------- 
+* fix in versionhistory
+* extended restversion class
+* fixes in node
+* checkin with majorflag or minor
+* versioning with major minor
+* rest upload implemented
+* rest upload for versioning
+* provided some version examples
+* zoho integration extended with zoho sheet
+* zoho just works from now on with apikey & skey .... security changes on zoho in april 2011

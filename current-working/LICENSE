@@ -1,0 +1,22 @@
+ifresco PHP library
+Copyright (c) 2011 Dominik Danninger, MAY Computer GmbH
+All rights reserved.
+ddanninger@may.co.at
+
+
+http://www.ifresco.at
+version: 0.2
+
+
+
+Open Source License
+-------------------------------------------------------------------------------
+"ifresco PHP library" is licensed under the terms of the Open Source GPL 3.0 license. 
+
+http://www.gnu.org/licenses/gpl.html
+
+-------------------------------------------------------------------------------
+ifresco PHP library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
